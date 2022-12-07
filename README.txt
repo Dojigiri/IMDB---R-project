@@ -1,12 +1,14 @@
-IMDb Datasets (https://www.imdb.com/interfaces/)
+Description
+In this project, I will try to answer if movies have increased in length the last years (since 2010).
+To perform this hypothesis testing, I used the dataset "title.basics.tsv.gz", downloaded from IMDb Datasets (https://www.imdb.com/interfaces/).
 
+License
 Subsets of IMDb data are available for access to customers for personal and non-commercial use. 
 
-- Data Location
-
+Data Location
 The dataset files can be accessed and downloaded from https://datasets.imdbws.com/. The data is refreshed daily.
 
-
+Dataset legend
 title.basics.tsv.gz - Contains the following information for titles:
 
     tconst (string) - alphanumeric unique identifier of the title
@@ -18,10 +20,3 @@ title.basics.tsv.gz - Contains the following information for titles:
     endYear (YYYY) – TV Series end year. ‘\N’ for all other title types
     runtimeMinutes – primary runtime of the title, in minutes
     genres (string array) – includes up to three genres associated with the title
-
-
-title.ratings.tsv.gz – Contains the IMDb rating and votes information for titles
-
-    tconst (string) - alphanumeric unique identifier of the title
-    averageRating – weighted average of all the individual user ratings
-    numVotes - number of votes the title has received
