@@ -20,3 +20,7 @@ title.basics.tsv.gz - Contains the following information for titles:
     endYear (YYYY) – TV Series end year. ‘\N’ for all other title types
     runtimeMinutes – primary runtime of the title, in minutes
     genres (string array) – includes up to three genres associated with the title
+
+Relevant articles on this subject
+https://www.whattowatch.com/features/are-movies-really-getting-longer
+https://edition.cnn.com/2022/02/06/entertainment/movie-runtimes-longer-mcu-batman-oscar-bait-cec/index.html
