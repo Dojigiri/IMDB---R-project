@@ -19,6 +19,9 @@ movies_data <- subset(movies_data, movies_data$startYear < 2023)
 #identify and remove outliers (e.g movies' length less than 40min or more than 360min)
 movies_data <- subset(movies_data, movies_data$runtimeMinutes > 40 & movies_data$runtimeMinutes < 360)
 
+#summary of movies_data subset
+summary(movies_data)
+
 #create subset that contains only movies since 2010
 since2010 <- subset(movies_data, titleType == "movie" & startYear >= 2010)
 
