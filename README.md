@@ -23,3 +23,4 @@ title.basics.tsv.gz - Contains the following information for titles:
 
 ## Relevant articles on this subject
 [Why it feels like movies are getting longer](https://edition.cnn.com/2022/02/06/entertainment/movie-runtimes-longer-mcu-batman-oscar-bait-cec/index.html)
+[Are movies really getting longer? Were films in the 1980s really shorter? We test the data... ](https://www.whattowatch.com/features/are-movies-really-getting-longer)
