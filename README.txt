@@ -25,20 +25,3 @@ title.ratings.tsv.gz – Contains the IMDb rating and votes information for titl
     tconst (string) - alphanumeric unique identifier of the title
     averageRating – weighted average of all the individual user ratings
     numVotes - number of votes the title has received
-
-
-sources:
-https://universeofdatascience.com/how-to-remove-outliers-from-data-in-r/
-https://www.r-bloggers.com/2020/01/how-to-remove-outliers-in-r/
-
-https://www.geeksforgeeks.org/regression-analysis-in-r-programming/
-https://www.scribbr.com/statistics/linear-regression-in-r/
-
-https://towardsdatascience.com/r-tutorial-analyzing-covid-19-data-12670cd664d6
-https://github.com/techtribeyt/covid-r-example/blob/master/script.R
-
-https://towardsdatascience.com/are-new-movies-longer-than-they-were-10hh20-50-year-ago-a35356b2ca5b
-https://www.whattowatch.com/features/are-movies-really-getting-longer
-https://edition.cnn.com/2022/02/06/entertainment/movie-runtimes-longer-mcu-batman-oscar-bait-cec/index.html
-
-https://www.statology.org/welch-t-test-in-r/
