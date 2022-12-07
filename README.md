@@ -22,4 +22,4 @@ title.basics.tsv.gz - Contains the following information for titles:
     genres (string array) – includes up to three genres associated with the title
 
 ## Relevant articles on this subject
-[Why it feels like movies are getting longer] (https://edition.cnn.com/2022/02/06/entertainment/movie-runtimes-longer-mcu-batman-oscar-bait-cec/index.html)
+[Why it feels like movies are getting longer](https://edition.cnn.com/2022/02/06/entertainment/movie-runtimes-longer-mcu-batman-oscar-bait-cec/index.html)
